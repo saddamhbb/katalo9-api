@@ -1,5 +1,72 @@
 {
-    "products": [],
+    "products": [
+        {
+            "id": 1,
+            "title": "Friendship Flower",
+            "price": 20000,
+            "category": 1,
+            "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": 5,
+            "images": [
+                {
+                    "priority": 1,
+                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                },
+                {
+                    "priority": 2,
+                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                },
+                {
+                    "priority": 3,
+                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Rose Pink Flower of Love",
+            "price": 75000,
+            "category": 2,
+            "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": 5,
+            "images": [
+                {
+                    "priority": 1,
+                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                },
+                {
+                    "priority": 2,
+                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                },
+                {
+                    "priority": 3,
+                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Rose Pink Flower of Friendship",
+            "price": 65000,
+            "category": 2,
+            "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+            "stock": 5,
+            "images": [
+                {
+                    "priority": 1,
+                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                },
+                {
+                    "priority": 2,
+                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                },
+                {
+                    "priority": 3,
+                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                }
+            ]
+        }
+    ],
     "categories": [
         {
             "id": 1,
