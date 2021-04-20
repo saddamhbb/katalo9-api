@@ -1,4 +1,25 @@
 {
     "products": [],
-    "categories": []
+    "categories": [
+        {
+            "id": 1,
+            "name": "Potted Plant"
+        },
+        {
+            "id": 2,
+            "name": "Pink Flower"
+        },
+        {
+            "id": 3,
+            "name": "Pink Rose"
+        },
+        {
+            "id": 4,
+            "name": "Roses Suprises"
+        },
+        {
+            "id": 5,
+            "name": "Pink Flower Tree"
+        }
+    ]
 }
