@@ -1,0 +1,24 @@
+{
+  "name": "katalo9-api",
+  "version": "1.0.0",
+  "description": "Mock API for Kataglo9",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saddamhbb/katalo9-api.git"
+  },
+  "author": "Saddam Habibie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saddamhbb/katalo9-api/issues"
+  },
+  "homepage": "https://github.com/saddamhbb/katalo9-api#readme"
+}
