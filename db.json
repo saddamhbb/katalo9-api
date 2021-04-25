@@ -10,15 +10,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                    "url": "/img/products/potted-plant/potted-flower-1.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-1.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 }
             ]
         },
@@ -32,15 +32,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-1.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                    "url": "/img/products/potted-plant/potted-flower-1.jpeg"
                 }
             ]
         },
@@ -54,15 +54,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/potted-plant/potted-flower-1.jpg"
+                    "url": "/img/products/potted-plant/potted-flower-1.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-1.jpeg"
                 }
             ]
         },
@@ -76,15 +76,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/red-rose/red-rose-1.jpg"
+                    "url": "/img/products/red-rose/red-rose-1.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/red-rose/red-rose-2.jpg"
+                    "url": "/img/products/red-rose/red-rose-2.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-1.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-1.jpeg"
                 }
             ]
         },
@@ -98,15 +98,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/red-rose/red-rose-2.jpg"
+                    "url": "/img/products/red-rose/red-rose-2.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/red-rose/red-rose-1.jpg"
+                    "url": "/img/products/red-rose/red-rose-1.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 }
             ]
         },
@@ -120,15 +120,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/roses-suprise/roses-suprise-1.jpg"
+                    "url": "/img/products/roses-suprise/roses-suprise-1.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/red-rose/red-rose-1.jpg"
+                    "url": "/img/products/red-rose/red-rose-1.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 }
             ]
         },
@@ -142,15 +142,15 @@
             "images": [
                 {
                     "priority": 1,
-                    "url": "/img/products/flower-tree/pink-flower-tree-1.jpg"
+                    "url": "/img/products/flower-tree/pink-flower-tree-1.jpeg"
                 },
                 {
                     "priority": 2,
-                    "url": "/img/products/red-rose/red-rose-1.jpg"
+                    "url": "/img/products/red-rose/red-rose-1.jpeg"
                 },
                 {
                     "priority": 3,
-                    "url": "/img/products/pink-flower/pink-flower-2.jpg"
+                    "url": "/img/products/pink-flower/pink-flower-2.jpeg"
                 }
             ]
         }
@@ -159,27 +159,27 @@
         {
             "id": 1,
             "name": "Potted Plant",
-            "img": "/img/products/potted-plant/potted-flower-cat.jpg"
+            "img": "/img/products/potted-plant/potted-plant-cat.png"
         },
         {
             "id": 2,
             "name": "Pink Flower",
-            "img": "/img/products/pink-flower/pink-flower-cat.jpg"
+            "img": "/img/products/pink-flower/pink-flower-cat.jpeg"
         },
         {
             "id": 3,
             "name": "Red Rose",
-            "img": "/img/products/red-rose/red-rose-cat.jpg"
+            "img": "/img/products/red-rose/red-rose-cat.jpeg"
         },
         {
             "id": 4,
             "name": "Roses Suprise",
-            "img": "/img/products/roses-suprise/roses-suprise-cat.jpg"
+            "img": "/img/products/roses-suprise/roses-suprise-cat.jpeg"
         },
         {
             "id": 5,
             "name": "Flower Tree",
-            "img": "/img/products/flower-tree/flower-tree-cat.jpg"
+            "img": "/img/products/flower-tree/flower-tree-cat.jpeg"
         }
     ]
 }
